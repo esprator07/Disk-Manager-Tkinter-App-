@@ -76,7 +76,6 @@ Disk Manager Pro is a comprehensive Windows application designed for advanced di
 
 \### Basic Usage
 
-```bash
 
 \# Launch application
 
@@ -128,7 +127,7 @@ Privacy Commitment
 
 📧 Email: atakaneksi2001@gmail.com
 
-
+🌐 website: https://www.atakaneksi.com/en/post/disk-manager-pro-open-source-disk-management-and-data-recovery-tool
 
 🐛 Github: esprator07
 
